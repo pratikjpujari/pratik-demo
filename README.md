@@ -1,2 +1,3 @@
 # pratik-demo
 This is my first Git Repositry
+Author - Pratik J Pujari
